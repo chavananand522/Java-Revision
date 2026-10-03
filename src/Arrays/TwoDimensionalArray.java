@@ -14,7 +14,6 @@ public class TwoDimensionalArray {
 		System.out.println(arr[0][3]);
 		System.out.println(arr[0][5]);
 		System.out.println(arr[1][6]);
-		
 
 	}
 
