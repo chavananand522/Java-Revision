@@ -17,7 +17,8 @@ class Teacher extends College {
 public class OverrideAnnotation {
 
     public static void main(String[] args) {
-        College c = new College();
+   
+    	College c = new College();
         c.classRm();
 
         Teacher t = new Teacher();
