@@ -1,4 +1,4 @@
-package ControlStatements;
+package src.ControlStatements;
 
 public class ifElseIfLadder {
 
